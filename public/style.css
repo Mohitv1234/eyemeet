@@ -148,7 +148,8 @@ body {
 .part{
   width: 10vw;
   height: 20vh;
-  position: absolute;
+  position: relative;
+    overflow: hidden;
   top: 50vh;
   left: 20px;
 }
